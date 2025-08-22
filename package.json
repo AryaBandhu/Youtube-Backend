@@ -3,17 +3,21 @@
   "version": "1.0.0",
   "description": "this is youtube backend",
   "main": "index.js",
+  "type": "module",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "nodemon src/index.js"
   },
   "keywords": [
     "youtube",
     "Aru",
     "Code",
-    "arucode",
+    "arucode",  
     "Arya",
     "backend"
   ],
   "author": "Arya Bandhu",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
 }
