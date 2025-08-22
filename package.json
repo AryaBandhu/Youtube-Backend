@@ -1,0 +1,19 @@
+{
+  "name": "youtube-backend",
+  "version": "1.0.0",
+  "description": "this is youtube backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "youtube",
+    "Aru",
+    "Code",
+    "arucode",
+    "Arya",
+    "backend"
+  ],
+  "author": "Arya Bandhu",
+  "license": "ISC"
+}
