@@ -11,13 +11,14 @@
     "youtube",
     "Aru",
     "Code",
-    "arucode",  
+    "arucode",
     "Arya",
     "backend"
   ],
   "author": "Arya Bandhu",
   "license": "ISC",
   "devDependencies": {
-    "nodemon": "^3.1.10"
+    "nodemon": "^3.1.10",
+    "prettier": "^3.6.2"
   }
 }
